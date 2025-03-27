@@ -1,1 +1,2 @@
-print("Cauã Souza")
+nome = input("Informe seu nome: ")
+print
